@@ -32,5 +32,5 @@ This project implements a machine learning model that detects spam emails based 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Spam-Mail-Prediction-using-ML.git
+   git clone https://github.com/Gowjesh/Spam-Mail-Prediction-using-ML.git
    cd Spam-Mail-Prediction-using-ML
